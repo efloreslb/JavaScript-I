@@ -19,6 +19,13 @@ const example = {
 
 // Write your intern objects here:
 
+const intern01 = {
+  "id": 1,
+  "name": "Mitzi",
+  "email": "mmelloy0@psu.edu",
+  "gender": "F"
+}
+
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
@@ -62,3 +69,4 @@ const parent = {}
 // Have the child speak
 
 // Have the grandchild speak
+
